@@ -21,7 +21,7 @@ function App() {
   
   return !isauth ? (
     <div className="mainbox">
-      You are not login please, <button onClick={handelauth}>Login</button>
+      You are not login please, <button className="login" onClick={handelauth}>Login</button>
     </div>
   ) : isLoading ? (<div>Loading........</div>) : isError ? (<div>Something Went wrong Please Check...</div>) :(
     <div className="App">

@@ -53,6 +53,7 @@
 .plus{
     background-color: transparent;
     border: none;
+    cursor: pointer;
 }
 
 
@@ -61,9 +62,15 @@
     height: 35px;
     border: transparent;
     border-radius: 30px;
+    cursor: pointer;
 }
 
 .trash{
     border: none;
+    cursor: pointer;
     background-color: transparent;
+}
+
+.star{
+    margin-top: 5px;
 }
