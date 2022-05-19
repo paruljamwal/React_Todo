@@ -1,0 +1,28 @@
+
+ .mainbox{
+    margin-left:30%;
+    margin-top: 50px;
+    height: 390px;
+    width: 35%;
+    border: 2px solid rgb(131,148,118); 
+    
+    
+    
+}
+
+.head{
+    text-align: center;
+}
+
+
+.App{
+    background-image: url('https://images.unsplash.com/photo-1428366890462-dd4baecf492b?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGJ1aWxkaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500');
+    /* background-image: url('https://images.unsplash.com/photo-1555883006-0f5a0915a80f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGlwaGlsbCUyMHRvd2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500'); */
+  margin-left: 30%;
+  object-fit:fill;
+  width: 35%;
+  height: 550px;
+  border: 2px solid rgb(131,148,118); 
+}
+
+

@@ -1,0 +1,69 @@
+.list{
+    margin: 10px;
+    text-align: center;
+    background-color: rgba(252, 230, 233, 0.727);
+    width: 50%;
+    border-radius: 5px;
+}
+
+
+
+#striked{
+    text-decoration: line-through;
+  
+}
+
+.lists{
+    display: flex;
+    margin-left: 20%;
+    height: 50px;
+}
+
+
+.inpubox{
+    width: 60%;
+    height: 34px;
+    font-size: large;
+    background: rgb(169, 185, 158);
+    border: none;
+    padding: 5px;
+    margin-left: 20%;
+    color: white;
+  
+}
+
+.inpubox:focus{
+    outline: none;
+}
+
+.show{
+    background: rgb(172, 194, 155); 
+     width: 250px;
+     height: 35px;
+     border: none;
+     cursor: pointer;
+     color: whitesmoke;
+     margin-left: 28%;
+     position:absolute;
+     top: 500px;
+     left:10%;
+
+}
+
+.plus{
+    background-color: transparent;
+    border: none;
+}
+
+
+.toggle{
+    width: 35px;
+    height: 35px;
+    border: transparent;
+    border-radius: 30px;
+}
+
+.trash{
+    border: none;
+    background-color: transparent;
+}
